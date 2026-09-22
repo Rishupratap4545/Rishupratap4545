@@ -1,61 +1,68 @@
-# Hi 👋, I'm Rishu Pratap Singh
+# 👋 Hi, I'm Rishu Pratap Singh
 
-### 👨‍💻 CSE Student | Aspiring Software Developer
+### 💻 CSE Student | Aspiring Software Developer
 
-I'm currently pursuing **B.Tech in Computer Science & Engineering** and learning programming, Data Structures & Algorithms, and web development.
+I'm currently pursuing B.Tech in Computer Science & Engineering.
 
-I enjoy building small projects, learning new technologies, and improving my coding skills one step at a time. 🚀
+I enjoy learning programming, building projects, and improving my problem-solving skills.
 
 ---
-🛠️ Skills & Technologies
 
-## Programming
-- C
-- C++
-- JavaScript
+## 🛠️ Skills
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Tools
-- Git
-- GitHub
-- VS Code
+---
 
-### Currently Learning
+## 🚀 Projects
+
+### 🧮 Calculator
+A simple calculator built using HTML, CSS and JavaScript.
+
+### 🔜 More Projects Coming Soon
+
+Currently learning and building new projects.
+
+---
+
+## 📚 Currently Learning
+
 - Data Structures & Algorithms
+- C / C++
 - Web Development
 - Git & GitHub
 - Problem Solving
 
 ---
 
-## 🚀 Projects
+## 🎯 Goals
 
-
-
-### 📚 More Projects Coming Soon...
-I'm currently learning and building new projects. Stay tuned! 🔥
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishupratap4545&layout=compact&theme=tokyonight)
+- Build real-world projects
+- Improve DSA
+- Learn new technologies
+- Contribute to open-source
+- Become a better software developer
 
 ---
 
-## 🎯 2026 Goals
+## 📊 GitHub Stats
 
-- 💻 Improve C/C++ programming
-- 🧠 Master Data Structures & Algorithms
-- 🌐 Build real-world web projects
-- 🚀 Learn new technologies
-- 📈 Become a better problem solver
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishupratap4545&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishupratap4545&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [@Rishupratap4545](https://github.com/Rishupratap4545)
+[![GitHub](https://img.shields.io/badge/GitHub-Rishupratap4545-181717?style=for-the-badge&logo=github)](https://github.com/Rishupratap4545)
 
 ---
 
-### 💡 "Code. Learn. Build. Repeat." 🚀
+### 💡 Code. Learn. Build. Repeat. 🚀
